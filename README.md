@@ -5,7 +5,7 @@
 
 ## Authors
 
-- [@semasuka](https://www.github.com/akheirollahi)
+- [@akheirollahi](https://www.github.com/akheirollahi)
 
 ## Table of Contents
 
