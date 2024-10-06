@@ -1,6 +1,6 @@
 <img width="741" alt="Screenshot 2024-10-06 at 11 06 09 AM" src="https://github.com/user-attachments/assets/f5376576-162e-4914-ad7c-cf84b297748b">
 
-# Credit Card Fraud Detection
+# Credit Card Fraud Detection(Project Status: Ongoing 📌)
 
 
 ## Authors
